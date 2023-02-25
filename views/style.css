@@ -1,0 +1,29 @@
+.bg-orange {
+    background: orange;
+}
+
+.text-orange {
+    color: orange;
+}
+
+.border-bottom-orange {
+    border-bottom: 1px solid orange;
+}
+
+.bg-golden {
+    background: lightgoldenrodyellow;
+}
+
+.bg-yellow {
+    background: yellow;
+}
+
+.bg-lightsalmon {
+    background: lightsalmon;
+}
+
+.btn-warning {
+    color: black;
+    background-color: orange;
+    border-color: orange;
+}

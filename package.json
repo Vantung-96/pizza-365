@@ -1,0 +1,24 @@
+{
+    "dependencies": {
+        "express": "^4.18.1",
+        "mongoose": "^6.3.6"
+    },
+    "name": "devcamp-pizza365-example-call",
+    "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://gitlab.com/devcamp120.j2223/exercise/tungcv/devcamp-pizza365-example-call.git"
+    },
+    "author": "TungCv",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://gitlab.com/devcamp120.j2223/exercise/tungcv/devcamp-pizza365-example-call/issues"
+    },
+    "homepage": "https://gitlab.com/devcamp120.j2223/exercise/tungcv/devcamp-pizza365-example-call#readme"
+}
